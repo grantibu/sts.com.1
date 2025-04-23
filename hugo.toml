@@ -367,3 +367,7 @@ featured_sort_by_date = false
 
 [params.experience]
 showJobCard = true # Set to false to hide the job card
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
