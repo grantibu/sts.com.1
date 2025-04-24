@@ -6,7 +6,7 @@
 - id: "meta_keywords"
   translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "Shameel Thahir Silva"
 - id: "meta_image"
   translation: "/img/general/og-image.jpg"
 
@@ -16,10 +16,10 @@
   translation: "Adritian logo"
 
 - id: "logo_text1"
-  translation: "Adritian"
+  translation: "Shameel"
 
 - id: "logo_text2"
-  translation: "Demo"
+  translation: "Thahir"
 
 ## General
 - id: "skipToMainContent"
