@@ -15,12 +15,6 @@ unsafe = true
   term = ["HTML", "RSS"]
   footer = []
 
-# Explicitly prevent the footer section from generating any output
-[outputFormats.footerSection]
-  # Empty configuration to prevent any output
-
-# Specifically disable generation of these kinds for the footer content
-disableKinds = ["footerSection", "RSS"]
 
 [module]
 [[module.imports]]
@@ -63,8 +57,8 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
+title = 'Shameel Thahir Silva - Candidato al Senado por el Polo Democratico'
+description = 'Shameel Thahir Silva - Candidato al Senado por el Polo Democratico'
 images = ['/img/og-img.png']
 sections = [
   "showcase",
@@ -280,6 +274,7 @@ featured_sort_by_date = false
 [params.experience]
 showJobCard = true # Set to false to hide the job card
 
+# Needed for github pages.
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
