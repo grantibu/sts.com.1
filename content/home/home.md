@@ -45,7 +45,6 @@ draft = false
     button3_url="/es/experience"
 >}}
 
-
 ## Experiencia (lista)
 
 Puedes ver una versión alternativa, usando `experience-list` en [/cv](/cv).

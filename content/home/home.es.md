@@ -26,8 +26,8 @@ draft = false
     {{< link icon="instagram" url="https://www.instagram.com/zetxek/" >}}
     {{< link icon="bluesky" url="https://www.bluesky.com/" >}}
     {{< link icon="threads" url="https://www.threads.net/" >}}
-
 {{< /platform-links >}}
+
 {{< /showcase-section >}}
 
 {{< education-list
