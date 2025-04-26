@@ -1,10 +1,10 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Shameel Thahir Silva - Candidato al Senado por el Polo Democratico"
 - id: "meta_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "Shameel Thahir Silva - Candidato al Senado por el Polo Democratico."
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
+  translation: "Shameel Thahir Silva, Candidato al Senado, Polo Democratico"
 - id: "meta_author"
   translation: "Shameel Thahir Silva"
 - id: "meta_image"
@@ -13,7 +13,7 @@
 ## Header
 
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "Shameel Thahir Silva"
 
 - id: "logo_text1"
   translation: "Shameel"
@@ -30,7 +30,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+  translation: "© Shameel Thahir Silva."
 
 - id: "language"
   translation: "Language"
@@ -47,10 +47,10 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Shameel Thahir Silva - Candidato al Senado por el Polo Democratico"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "Shameel Thahir Silva - Candidato al Senado por el Polo Democratico."
 
 
 ## Blog
