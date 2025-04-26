@@ -1,5 +1,5 @@
 ---
-title: 'La estafa de la energía en Colombia: lo que se reveló anoche en el Consejo de Ministros'
+title: 'La estafa de la energía en Colombia: Revelaciones del tercer Consejo de Ministros'
 date: 2025-04-08T14:38:33+02:00
 draft: false
 type: 'blog'
